@@ -15,3 +15,11 @@ color: hotpink;
 text-decoration: none;
 
 }
+
+table{
+  border: 1px solid #F8BBD0;
+  padding: 10px;
+  margin: 0 auto;
+  background-color: #F8BBD0;
+}
+  
