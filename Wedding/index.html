@@ -103,6 +103,37 @@ margin-right: 20px;
   margin: 20px;
   overflow: hidden;
 }
+  
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightgrey;
+    font-family: 'skinny_jeansregular';
+    opacity: 0.5;
+}
+li {
+    float: RIGHT;
+}
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-family: 'skinny_jeansregular';
+    font-size: 27px;
+}
+a:hover:not(.active) {
+    background-color: grey;
+}
+.active {
+float: RIGHT;
+color: red;
+	
+}
 </style>
 
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -111,6 +142,13 @@ margin-right: 20px;
 
 </head>
 <body>
+  
+  <ul>
+  <li><a href="#about"></a>Contact</li>
+  <li><a href="#news">Photographies</a></li>
+  <li><a href="#contact">Event Dates</a></li>
+<li><a class="active" href="#home">About Us</a></li>
+</ul>
 <nav>
 <a href="#"> About us        | </a> <a href="#">Event Dates         |</a> <a href="#"> Photographies</a> 
 </nav>
