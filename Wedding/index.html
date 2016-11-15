@@ -51,7 +51,22 @@ text-decoration: none;
   h2 {
     color: #b83131;
     font-family: 'Lora', serif;
+   animation: the-dog 3s infinite;
   }
+	
+		 @keyframes the-dog {
+
+  0% { filter: saturate(0) hue-rotate(0);
+  }
+  25% { filter: saturate(3) hue-rotate(180deg); 
+  }
+  50% { filter: saturate(6) hue-rotate(360deg);
+  }
+  100% { filter: saturate(0) hue-rotate(0);
+  }
+}
+	
+	
   p {
     color: dimGray;
     font-family: 'Lora', serif;
