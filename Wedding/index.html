@@ -105,8 +105,21 @@ margin-right: 20px;
   padding:20px;
   margin: 20px;
   overflow: hidden;
+  animation: the-dog 3s infinite;
 }
   
+	@keyframes the-dog {
+
+  0% { filter: saturate(0) hue-rotate(0);
+  }
+  25% { filter: saturate(3) hue-rotate(180deg); 
+  }
+  50% { filter: saturate(6) hue-rotate(360deg);
+  }
+  100% { filter: saturate(0) hue-rotate(0);
+  }
+}
+	
   
   ul {
     list-style-type: none;
