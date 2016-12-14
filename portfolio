@@ -1,0 +1,267 @@
+<!doctype html>
+<head>
+<title>MelanieWeininger| Home</title> 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+<link rel="stylesheet" href="css/animate.css">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/noframework.waypoints.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <script>
+              new WOW().init();
+              </script>
+
+<!--<script src="js/wow.min.js"></script>
+<script>
+              new WOW().init();
+              </script> -->
+
+<style>
+  body{
+  text-align:center;
+  font-family: 'Quicksand', sans-serif;
+   background-image: url(http://www.intrawallpaper.com/static/images/20-colorful-wallpaper1.jpg);
+  background-size: 100%; 
+  }
+  
+  a {
+    color: #4B0082;
+  }
+  
+  a:hover {
+    color: #007A82;
+  }
+  
+  a:visited {
+    color: #007A82;
+  }
+  h1 {
+    font-family: 'Poiret One', cursive;
+    color: purple; 
+  }
+.title {
+text-shadow:3px 3px 10px black;
+font-size: 100px;
+color: white;
+}
+  h2 {
+    /* color: #007A82; */
+    color: white;
+  }
+  h3 {
+    color: dimGray;
+}
+  p {
+    color: dimGray;
+  }
+header {
+  padding: 150px;
+}
+
+  .images_1 {
+    width: 200px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-left: 27px;
+     animation-duration: 3s;
+   animation-delay: 2s;
+  }
+.rutine {
+    background-color: #11C9BC;
+  padding: 10px;
+  text-transform: uppercase;
+  color: white;
+ position: absolute;
+  top: 30px;
+  right: 25px;
+  z-index: 3;
+}
+.pictures {
+    background-color: #E98C7A;
+  padding: 10px;
+  text-transform: uppercase;
+  color: white;
+ position: absolute;
+  top: 30px;
+  left: 25px;
+  z-index: 3;
+}
+.art {
+    background-color: #C1B9C4;
+  padding: 10px;
+  text-transform: uppercase;
+  color: #635C66;
+ position: absolute;
+  top: 30px;
+  right: 25px;
+  z-index: 3;
+}
+.images_2 {
+    float:left;
+    overflow: hidden;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding:40px;
+    margin-top: -40px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+}
+.images_3 {
+   float:left;
+    overflow: hidden;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding:12px;
+    margin-top: 20px;
+    position: relative;
+    width: 280px;
+    height: 180px;
+}
+  article {
+    padding: 10px;
+    width: 270px;
+    height: 200px;
+    float:left;
+    margin: 5px;
+    border-radius: 5px;
+  }
+.container {
+  width: 930px;
+  /*centering*/
+  margin: 0 auto;
+}
+#about {
+background-color: black;
+    overflow: hidden;
+    border-radius: 5px;
+    padding:22px;
+    margin-top: 20px;
+  
+}
+ #myprojects {
+    background-color: #140018;
+    overflow: hidden;
+    border-radius: 5px;
+    padding:60px;
+    margin-top: 20px;
+ }
+#Photography {
+background-color: #1f0026;
+    overflow: hidden;
+    border-radius: 5px;
+    padding:22px;
+    margin-top: 20px;
+    position: relative;
+}
+#cards {
+  background-color: #280031;
+    overflow: hidden;
+    border-radius: 5px;
+    padding:22px;
+    margin-top: 20px;
+    position: relative;
+}
+#inspirations {
+  background-color: #360142;
+    overflow: hidden;
+    border-radius: 5px;
+    padding:22px;
+    margin-top: 20px;
+    position: relative;
+}
+}
+#my.animated{
+  /*animation-delay:1s;*/
+}
+#photo.animated{
+ /* animation-delay:1s; */
+}
+#design.animated{
+  /* animation-delay:2s; */
+}
+</style>
+ <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js"> </script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/magnific-popup.min.css" rel="stylesheet">
+
+</head>
+<body>
+
+
+  <header>
+<h1 class="title animated wow fadeInUp"> Melanie Weininger Portfolio</h1>
+
+</header>
+
+<section id="about"> 
+  <div class="container">
+<h1> My name is Melanie Weininger, I was born in Caracas Venezuela on December 7th, 1996.
+</h1>
+<p>  Since I was a child my dream was to design, and now I am starting to make my dream true by studying graphic design in MIU. When I graduate I want to have an excellent job and to achieve all the goals I proposed myself in time.</p>
+</div>
+</section>
+
+
+<section id="myprojects">
+  <div class="container">
+<h1>Graphic Design</h1>
+<article> <h3>Olivia Wilde</h3> <img class="images_1 animated flipInX" src="http://i1379.photobucket.com/albums/ah159/melaw5/olivia_zpsmqga84ez.jpg" height="200" > </article>
+<article> <h3>Green Run</h3> <img class="images_1 animated flipInX" src="http://i1379.photobucket.com/albums/ah159/melaw5/Untitled-1_zpsxpoinhjg.jpg"></article>
+<article> <h3>Amy Winehouse</h3> <img class="images_1 animated flipInX" src="http://i1379.photobucket.com/albums/ah159/melaw5/makeup_zpsgajxec04.jpg"> </article>
+</div>
+</section>
+</section>
+
+<section id="Photography"> 
+  <div class="container">
+<h2> Photography </h2>
+<article> <h3>View</h3><img class="images_2 slideInLeft wow" src="http://i1379.photobucket.com/albums/ah159/melaw5/IMG_5566_2_zpsszlfg7vh.jpg"></article>
+<article> <h3>Flower</h3><img class="images_2" src="http://i1379.photobucket.com/albums/ah159/melaw5/IMG_5576_2_zpsbzlaympv.jpg"></article>
+<article> <h3>Sunset</h3><img class="images_2 slideInRight wow" src="http://i1379.photobucket.com/albums/ah159/melaw5/8beaca43-1aef-4ea8-b8b5-647e7ec5b7ca_zps5xxwzqig.jpg">
+<span class="rutine animated infinite pulse"> View More </span>
+</section>
+</div>
+
+<section id="cards"> 
+  <div class="container">
+<h2> Cards Design</h2>
+<img class="images_3 slideInLeft wow" src="http://i1379.photobucket.com/albums/ah159/melaw5/melanie%20weininger-1_zpskd5cr4at.jpg">
+<img class="images_3" src="http://i1379.photobucket.com/albums/ah159/melaw5/Untitled-6_zps6opi80wp.jpg">
+<img class="images_3 slideInRight wow" src="http://i1379.photobucket.com/albums/ah159/melaw5/lulus%2022_zpsit5c7lz4.jpg">
+<span class="pictures animated infinite pulse">More Cards </span>
+</section>
+</div>
+
+<section id="inspirations"> 
+  <div class="container">
+<h2> Inspirations </h2>
+<img class="images_3 slideInLeft wow" src="http://3.bp.blogspot.com/_K3ykmk0r4ak/TMtJHyvefBI/AAAAAAAABAo/GCZvoITMuYw/s320/carlos-cruz-diez_2-1.jpg">
+<img class="images_3" src="http://www.katherinemarieclark.com/wp-content/uploads/2015/10/packaging-10.jpg">
+<img class="images_3 slideInRight wow " src="http://contacards.com/monocler.jpg">
+<span class="art animated infinite pulse"> More Designs </span>
+</section>
+</div>
+
+
+
+<script>
+var waypoint = new Waypoint({
+  element: document.getElementById('favorite-hobbies'),
+  handler: function(direction) {
+    console.log("i am here");
+    document.getElementById("my").classList.add('fadeInUp');
+    document.getElementById("my").classList.add('animated');
+        document.getElementById("photo").classList.add('fadeInUp');
+    document.getElementById("photo").classList.add('animated');
+        document.getElementById("design").classList.add('fadeInUp');
+    document.getElementById("design").classList.add('animated');
+  },
+  offset: 'bottom-in-view'
+})
+</script>
+
+</body>
